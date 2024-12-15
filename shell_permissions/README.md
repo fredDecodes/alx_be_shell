@@ -1,1 +1,1 @@
-# Files and scripts descriptions
+a script to switch current user to betty.
